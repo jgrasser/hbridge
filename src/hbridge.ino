@@ -2,7 +2,7 @@
  * Project hbridge
  * Description: Create H-Bridge Motor Controller using Particle Relay Shield
  * Author: Joseph Grasser
- * Date: 10/22/2017
+ * Date: 2/25/2018
  */
 
 int RELAY1 = D3;
